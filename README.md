@@ -12,4 +12,4 @@ The main objective of the project is to implement K-means Clustering algorithm u
 
 -Lastly, Mlib library is used to obtain the outputs for both the cases and the results are compared.
 
-*For detailed report refer Kmeans.pdf
+*For detailed report refer Kmeans.pdf*
